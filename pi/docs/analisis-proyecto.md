@@ -31,4 +31,4 @@
 ## 3. Registro ético de uso de Inteligencia Artificial (Prompt Log)
 | Fecha | Herramienta | Objetivo de la consulta | Prompt introducido | Revisión crítica y ajuste aplicado |
 | :---: | :---: | :--- | :--- | :--- |
-| 18/09/2026 | ChatGPT / Claude | Estructurar requisitos funcionales | *"Actúa como analista y redacta 3 necesidades de software para..."* | Se adaptaron los requisitos al alcance secuencial del Sprint 1 y se eliminaron funciones innecesarias. |
+| 18/09/2026 | ChatGPT / Claude | Estructurar requisitos funcionales | *"el simulador 2D debe ser lo mejor optimizado para que funcione con la minima de recursos , funcionando en casi cualquier equipo<br/>el simulador de realidad virtual no se fotosensible para los usuarios<br/>evaluar el interes de los potenciales consumidores"* | Se adaptaron los requisitos al alcance secuencial del Sprint 1 y se eliminaron funciones innecesarias. |
